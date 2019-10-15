@@ -10,4 +10,5 @@ pandas>=0.23.0
 aiohttp_socks
 schedule
 geopy
+emoji
 
