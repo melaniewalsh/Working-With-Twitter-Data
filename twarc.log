@@ -5460,3 +5460,7 @@
 2019-10-16 11:10:48,600 INFO archived 1184485909376319488
 2019-10-16 11:10:48,600 INFO archived 1184485908873142273
 2019-10-16 11:10:48,600 INFO getting ('https://api.twitter.com/1.1/search/tweets.json',) {'params': {'count': 100, 'q': 'demdebate', 'include_ext_alt_text': 'true', 'result_type': 'recent', 'tweet_mode': 'extended', 'max_id': '1184485908873142272'}}
+2019-10-16 11:35:42,876 INFO creating http session
+2019-10-16 11:35:42,877 INFO getting ('https://api.twitter.com/1.1/account/verify_credentials.json',) {'params': {'tweet_mode': 'extended'}}
+2019-10-16 11:37:20,997 INFO loading None profile from config /Users/melaniewalsh/.twarc
+2019-10-16 11:57:13,161 INFO loading None profile from config /Users/melaniewalsh/.twarc
